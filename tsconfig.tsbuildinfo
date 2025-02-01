@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/note.ts"],"version":"5.7.2"}
+{"root":["./calc-rsi.d.ts","./src/index.ts","./src/note.ts"],"version":"5.7.2"}

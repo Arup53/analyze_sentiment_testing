@@ -1,3 +1,4 @@
 node_modules
 .env
 note.ts
+calc-rsi.d.ts
